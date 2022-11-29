@@ -21,7 +21,7 @@ sites:
     url: https://shakedownstudio.com.au
 
 status-website:
-  # cname: uptime.lofts.sh
+  # cname: uptime.lofts.sh (uncomment for using with your domain)
   baseUrl: /loftwah-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Loftwah's Upptime

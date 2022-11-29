@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/beatsmiff.com.ico",
     "slug": "loftwah-the-beatsmiff",
     "status": "down",
-    "uptime": "58.04%",
-    "uptimeDay": "58.04%",
-    "uptimeWeek": "58.04%",
-    "uptimeMonth": "58.04%",
-    "uptimeYear": "58.04%",
+    "uptime": "56.91%",
+    "uptimeDay": "56.91%",
+    "uptimeWeek": "56.91%",
+    "uptimeMonth": "56.91%",
+    "uptimeYear": "56.91%",
     "time": 1351,
     "timeDay": 1351,
     "timeWeek": 1351,
     "timeMonth": 1351,
     "timeYear": 1351,
     "dailyMinutesDown": {
-      "2022-11-29": 310
+      "2022-11-29": 325
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://grindmodecypher.com",
     "icon": "https://icons.duckduckgo.com/ip3/grindmodecypher.com.ico",
     "slug": "grind-mode-cypher",
-    "status": "up",
-    "uptime": "58.91%",
-    "uptimeDay": "58.91%",
-    "uptimeWeek": "58.91%",
-    "uptimeMonth": "58.91%",
-    "uptimeYear": "58.91%",
+    "status": "down",
+    "uptime": "58.90%",
+    "uptimeDay": "58.90%",
+    "uptimeWeek": "58.90%",
+    "uptimeMonth": "58.90%",
+    "uptimeYear": "58.90%",
     "time": 7603,
     "timeDay": 7603,
     "timeWeek": 7603,
     "timeMonth": 7603,
     "timeYear": 7603,
     "dailyMinutesDown": {
-      "2022-11-29": 304
+      "2022-11-29": 310
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.grindmodecypher.com.ico",
     "slug": "grind-mode-cypher-shop",
     "status": "down",
-    "uptime": "58.45%",
-    "uptimeDay": "58.45%",
-    "uptimeWeek": "58.45%",
-    "uptimeMonth": "58.45%",
-    "uptimeYear": "58.45%",
+    "uptime": "57.31%",
+    "uptimeDay": "57.31%",
+    "uptimeWeek": "57.31%",
+    "uptimeMonth": "57.31%",
+    "uptimeYear": "57.31%",
     "time": 1341,
     "timeDay": 1341,
     "timeWeek": 1341,
     "timeMonth": 1341,
     "timeYear": 1341,
     "dailyMinutesDown": {
-      "2022-11-29": 307
+      "2022-11-29": 322
     }
   },
   {
@@ -83,18 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/madfapentertainment.com.ico",
     "slug": "mad-fap-entertainment",
     "status": "down",
-    "uptime": "58.65%",
-    "uptimeDay": "58.65%",
-    "uptimeWeek": "58.65%",
-    "uptimeMonth": "58.65%",
-    "uptimeYear": "58.65%",
+    "uptime": "57.51%",
+    "uptimeDay": "57.51%",
+    "uptimeWeek": "57.51%",
+    "uptimeMonth": "57.51%",
+    "uptimeYear": "57.51%",
     "time": 1560,
     "timeDay": 1560,
     "timeWeek": 1560,
     "timeMonth": 1560,
     "timeYear": 1560,
     "dailyMinutesDown": {
-      "2022-11-29": 306
+      "2022-11-29": 320
     }
   },
   {
@@ -120,19 +120,19 @@
     "url": "https://shakedownrecords.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/shakedownrecords.com.au.ico",
     "slug": "shake-down-records",
-    "status": "up",
-    "uptime": "58.94%",
-    "uptimeDay": "58.94%",
-    "uptimeWeek": "58.94%",
-    "uptimeMonth": "58.94%",
-    "uptimeYear": "58.94%",
+    "status": "down",
+    "uptime": "59.53%",
+    "uptimeDay": "59.53%",
+    "uptimeWeek": "59.53%",
+    "uptimeMonth": "59.53%",
+    "uptimeYear": "59.53%",
     "time": 5955,
     "timeDay": 5955,
     "timeWeek": 5955,
     "timeMonth": 5955,
     "timeYear": 5955,
     "dailyMinutesDown": {
-      "2022-11-29": 304
+      "2022-11-29": 306
     }
   },
   {
@@ -141,18 +141,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/shakedownstudio.com.au.ico",
     "slug": "shake-down-studio",
     "status": "down",
-    "uptime": "58.80%",
-    "uptimeDay": "58.80%",
-    "uptimeWeek": "58.80%",
-    "uptimeMonth": "58.80%",
-    "uptimeYear": "58.80%",
+    "uptime": "57.65%",
+    "uptimeDay": "57.65%",
+    "uptimeWeek": "57.65%",
+    "uptimeMonth": "57.65%",
+    "uptimeYear": "57.65%",
     "time": 1490,
     "timeDay": 1490,
     "timeWeek": 1490,
     "timeMonth": 1490,
     "timeYear": 1490,
     "dailyMinutesDown": {
-      "2022-11-29": 305
+      "2022-11-29": 319
     }
   }
 ]
